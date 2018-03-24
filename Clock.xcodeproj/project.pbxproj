@@ -13,15 +13,15 @@
 		C01B86022064E5EF00581D68 /* ClockTool.swift in Sources */ = {isa = PBXBuildFile; fileRef = C01B85FE2064E5EF00581D68 /* ClockTool.swift */; };
 		C01B86032064E5EF00581D68 /* ClockTool.swift in Sources */ = {isa = PBXBuildFile; fileRef = C01B85FE2064E5EF00581D68 /* ClockTool.swift */; };
 		C01B86042064E5EF00581D68 /* ClockTool.swift in Sources */ = {isa = PBXBuildFile; fileRef = C01B85FE2064E5EF00581D68 /* ClockTool.swift */; };
-		C01DA39520664314003F0F23 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C01DA39120664313003F0F23 /* Assets.xcassets */; };
-		C01DA39620664314003F0F23 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C01DA39120664313003F0F23 /* Assets.xcassets */; };
-		C01DA39720664314003F0F23 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C01DA39120664313003F0F23 /* Assets.xcassets */; };
-		C01DA39820664314003F0F23 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C01DA39220664313003F0F23 /* Main.storyboard */; };
-		C01DA39920664314003F0F23 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C01DA39220664313003F0F23 /* Main.storyboard */; };
-		C01DA39A20664314003F0F23 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C01DA39220664313003F0F23 /* Main.storyboard */; };
-		C01DA39B20664314003F0F23 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C01DA39420664313003F0F23 /* Info.plist */; };
-		C01DA39C20664314003F0F23 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C01DA39420664313003F0F23 /* Info.plist */; };
-		C01DA39D20664314003F0F23 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C01DA39420664313003F0F23 /* Info.plist */; };
+		C01DA3A3206643DF003F0F23 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C01DA39F206643DF003F0F23 /* Assets.xcassets */; };
+		C01DA3A4206643DF003F0F23 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C01DA39F206643DF003F0F23 /* Assets.xcassets */; };
+		C01DA3A5206643DF003F0F23 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C01DA39F206643DF003F0F23 /* Assets.xcassets */; };
+		C01DA3A6206643DF003F0F23 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C01DA3A0206643DF003F0F23 /* Main.storyboard */; };
+		C01DA3A7206643DF003F0F23 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C01DA3A0206643DF003F0F23 /* Main.storyboard */; };
+		C01DA3A8206643DF003F0F23 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C01DA3A0206643DF003F0F23 /* Main.storyboard */; };
+		C01DA3A9206643DF003F0F23 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C01DA3A2206643DF003F0F23 /* Info.plist */; };
+		C01DA3AA206643DF003F0F23 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C01DA3A2206643DF003F0F23 /* Info.plist */; };
+		C01DA3AB206643DF003F0F23 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C01DA3A2206643DF003F0F23 /* Info.plist */; };
 		C02996B920639AEF0076C9E7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C02996B820639AEF0076C9E7 /* AppDelegate.swift */; };
 		C02996BB20639AEF0076C9E7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C02996BA20639AEF0076C9E7 /* ViewController.swift */; };
 		C02996CE20639AEF0076C9E7 /* ClockTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C02996CD20639AEF0076C9E7 /* ClockTests.swift */; };
@@ -48,9 +48,9 @@
 /* Begin PBXFileReference section */
 		C01B85FD2064E5EF00581D68 /* ClockView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ClockView.swift; sourceTree = "<group>"; };
 		C01B85FE2064E5EF00581D68 /* ClockTool.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ClockTool.swift; sourceTree = "<group>"; };
-		C01DA39120664313003F0F23 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		C01DA39320664313003F0F23 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		C01DA39420664313003F0F23 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C01DA39F206643DF003F0F23 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		C01DA3A1206643DF003F0F23 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		C01DA3A2206643DF003F0F23 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C02996B520639AEF0076C9E7 /* Clock.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Clock.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C02996B820639AEF0076C9E7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C02996BA20639AEF0076C9E7 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -96,14 +96,14 @@
 			path = Clock;
 			sourceTree = "<group>";
 		};
-		C01DA39020664313003F0F23 /* Resources */ = {
+		C01DA39E206643DF003F0F23 /* Resource */ = {
 			isa = PBXGroup;
 			children = (
-				C01DA39120664313003F0F23 /* Assets.xcassets */,
-				C01DA39220664313003F0F23 /* Main.storyboard */,
-				C01DA39420664313003F0F23 /* Info.plist */,
+				C01DA39F206643DF003F0F23 /* Assets.xcassets */,
+				C01DA3A0206643DF003F0F23 /* Main.storyboard */,
+				C01DA3A2206643DF003F0F23 /* Info.plist */,
 			);
-			path = Resources;
+			path = Resource;
 			sourceTree = "<group>";
 		};
 		C02996AC20639AEF0076C9E7 = {
@@ -131,7 +131,7 @@
 			children = (
 				C02996B820639AEF0076C9E7 /* AppDelegate.swift */,
 				C02996BA20639AEF0076C9E7 /* ViewController.swift */,
-				C01DA39020664313003F0F23 /* Resources */,
+				C01DA39E206643DF003F0F23 /* Resource */,
 				C01B85FC2064E5EF00581D68 /* Clock */,
 			);
 			path = Clock;
@@ -262,9 +262,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C01DA39520664314003F0F23 /* Assets.xcassets in Resources */,
-				C01DA39820664314003F0F23 /* Main.storyboard in Resources */,
-				C01DA39B20664314003F0F23 /* Info.plist in Resources */,
+				C01DA3A3206643DF003F0F23 /* Assets.xcassets in Resources */,
+				C01DA3A6206643DF003F0F23 /* Main.storyboard in Resources */,
+				C01DA3A9206643DF003F0F23 /* Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -272,9 +272,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C01DA39620664314003F0F23 /* Assets.xcassets in Resources */,
-				C01DA39920664314003F0F23 /* Main.storyboard in Resources */,
-				C01DA39C20664314003F0F23 /* Info.plist in Resources */,
+				C01DA3A4206643DF003F0F23 /* Assets.xcassets in Resources */,
+				C01DA3A7206643DF003F0F23 /* Main.storyboard in Resources */,
+				C01DA3AA206643DF003F0F23 /* Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -282,9 +282,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C01DA39720664314003F0F23 /* Assets.xcassets in Resources */,
-				C01DA39A20664314003F0F23 /* Main.storyboard in Resources */,
-				C01DA39D20664314003F0F23 /* Info.plist in Resources */,
+				C01DA3A5206643DF003F0F23 /* Assets.xcassets in Resources */,
+				C01DA3A8206643DF003F0F23 /* Main.storyboard in Resources */,
+				C01DA3AB206643DF003F0F23 /* Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -338,10 +338,10 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		C01DA39220664313003F0F23 /* Main.storyboard */ = {
+		C01DA3A0206643DF003F0F23 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				C01DA39320664313003F0F23 /* Base */,
+				C01DA3A1206643DF003F0F23 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -463,7 +463,7 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = CM4R8DMWXB;
-				INFOPLIST_FILE = "$(SRCROOT)/Clock/resources/Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/Clock/Resource/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.hansonc.Clock;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -479,7 +479,7 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = CM4R8DMWXB;
-				INFOPLIST_FILE = "$(SRCROOT)/Clock/resources/Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/Clock/Resource/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.hansonc.Clock;
 				PRODUCT_NAME = "$(TARGET_NAME)";

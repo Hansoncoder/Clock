@@ -13,10 +13,17 @@
 		C01B86022064E5EF00581D68 /* ClockTool.swift in Sources */ = {isa = PBXBuildFile; fileRef = C01B85FE2064E5EF00581D68 /* ClockTool.swift */; };
 		C01B86032064E5EF00581D68 /* ClockTool.swift in Sources */ = {isa = PBXBuildFile; fileRef = C01B85FE2064E5EF00581D68 /* ClockTool.swift */; };
 		C01B86042064E5EF00581D68 /* ClockTool.swift in Sources */ = {isa = PBXBuildFile; fileRef = C01B85FE2064E5EF00581D68 /* ClockTool.swift */; };
+		C01DA39520664314003F0F23 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C01DA39120664313003F0F23 /* Assets.xcassets */; };
+		C01DA39620664314003F0F23 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C01DA39120664313003F0F23 /* Assets.xcassets */; };
+		C01DA39720664314003F0F23 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C01DA39120664313003F0F23 /* Assets.xcassets */; };
+		C01DA39820664314003F0F23 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C01DA39220664313003F0F23 /* Main.storyboard */; };
+		C01DA39920664314003F0F23 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C01DA39220664313003F0F23 /* Main.storyboard */; };
+		C01DA39A20664314003F0F23 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C01DA39220664313003F0F23 /* Main.storyboard */; };
+		C01DA39B20664314003F0F23 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C01DA39420664313003F0F23 /* Info.plist */; };
+		C01DA39C20664314003F0F23 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C01DA39420664313003F0F23 /* Info.plist */; };
+		C01DA39D20664314003F0F23 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C01DA39420664313003F0F23 /* Info.plist */; };
 		C02996B920639AEF0076C9E7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C02996B820639AEF0076C9E7 /* AppDelegate.swift */; };
 		C02996BB20639AEF0076C9E7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C02996BA20639AEF0076C9E7 /* ViewController.swift */; };
-		C02996BE20639AEF0076C9E7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C02996BC20639AEF0076C9E7 /* Main.storyboard */; };
-		C02996C020639AEF0076C9E7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C02996BF20639AEF0076C9E7 /* Assets.xcassets */; };
 		C02996CE20639AEF0076C9E7 /* ClockTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C02996CD20639AEF0076C9E7 /* ClockTests.swift */; };
 		C02996D920639AEF0076C9E7 /* ClockUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C02996D820639AEF0076C9E7 /* ClockUITests.swift */; };
 /* End PBXBuildFile section */
@@ -41,12 +48,12 @@
 /* Begin PBXFileReference section */
 		C01B85FD2064E5EF00581D68 /* ClockView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ClockView.swift; sourceTree = "<group>"; };
 		C01B85FE2064E5EF00581D68 /* ClockTool.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ClockTool.swift; sourceTree = "<group>"; };
+		C01DA39120664313003F0F23 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		C01DA39320664313003F0F23 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		C01DA39420664313003F0F23 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C02996B520639AEF0076C9E7 /* Clock.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Clock.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C02996B820639AEF0076C9E7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C02996BA20639AEF0076C9E7 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		C02996BD20639AEF0076C9E7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		C02996BF20639AEF0076C9E7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		C02996C420639AEF0076C9E7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C02996C920639AEF0076C9E7 /* ClockTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ClockTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C02996CD20639AEF0076C9E7 /* ClockTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClockTests.swift; sourceTree = "<group>"; };
 		C02996CF20639AEF0076C9E7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -89,6 +96,16 @@
 			path = Clock;
 			sourceTree = "<group>";
 		};
+		C01DA39020664313003F0F23 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				C01DA39120664313003F0F23 /* Assets.xcassets */,
+				C01DA39220664313003F0F23 /* Main.storyboard */,
+				C01DA39420664313003F0F23 /* Info.plist */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
 		C02996AC20639AEF0076C9E7 = {
 			isa = PBXGroup;
 			children = (
@@ -114,8 +131,8 @@
 			children = (
 				C02996B820639AEF0076C9E7 /* AppDelegate.swift */,
 				C02996BA20639AEF0076C9E7 /* ViewController.swift */,
+				C01DA39020664313003F0F23 /* Resources */,
 				C01B85FC2064E5EF00581D68 /* Clock */,
-				C038C7B52064B360002970EB /* resources */,
 			);
 			path = Clock;
 			sourceTree = "<group>";
@@ -136,16 +153,6 @@
 				C02996DA20639AEF0076C9E7 /* Info.plist */,
 			);
 			path = ClockUITests;
-			sourceTree = "<group>";
-		};
-		C038C7B52064B360002970EB /* resources */ = {
-			isa = PBXGroup;
-			children = (
-				C02996BC20639AEF0076C9E7 /* Main.storyboard */,
-				C02996BF20639AEF0076C9E7 /* Assets.xcassets */,
-				C02996C420639AEF0076C9E7 /* Info.plist */,
-			);
-			path = resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -255,8 +262,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C02996C020639AEF0076C9E7 /* Assets.xcassets in Resources */,
-				C02996BE20639AEF0076C9E7 /* Main.storyboard in Resources */,
+				C01DA39520664314003F0F23 /* Assets.xcassets in Resources */,
+				C01DA39820664314003F0F23 /* Main.storyboard in Resources */,
+				C01DA39B20664314003F0F23 /* Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -264,6 +272,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C01DA39620664314003F0F23 /* Assets.xcassets in Resources */,
+				C01DA39920664314003F0F23 /* Main.storyboard in Resources */,
+				C01DA39C20664314003F0F23 /* Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -271,6 +282,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C01DA39720664314003F0F23 /* Assets.xcassets in Resources */,
+				C01DA39A20664314003F0F23 /* Main.storyboard in Resources */,
+				C01DA39D20664314003F0F23 /* Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -324,10 +338,10 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		C02996BC20639AEF0076C9E7 /* Main.storyboard */ = {
+		C01DA39220664313003F0F23 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				C02996BD20639AEF0076C9E7 /* Base */,
+				C01DA39320664313003F0F23 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -451,7 +465,7 @@
 				DEVELOPMENT_TEAM = CM4R8DMWXB;
 				INFOPLIST_FILE = "$(SRCROOT)/Clock/resources/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.hansonc.clock.Clock;
+				PRODUCT_BUNDLE_IDENTIFIER = com.hansonc.Clock;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -467,7 +481,7 @@
 				DEVELOPMENT_TEAM = CM4R8DMWXB;
 				INFOPLIST_FILE = "$(SRCROOT)/Clock/resources/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.hansonc.clock.Clock;
+				PRODUCT_BUNDLE_IDENTIFIER = com.hansonc.Clock;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";

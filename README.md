@@ -1,6 +1,9 @@
 ## Clock
 这是一个时钟小Demo，指针使用 CALayer 来展示一张图片，通过设置`position`和`anchorPoint`来固定其位置，使用`CATransform3DMakeRotation`来旋转指针。
 
+- 只做了`ClockTool`的单元测试，覆盖了计算逻辑。
+- 代码和文件管理比较规范。
+
 ## 效果如下
 ![image](https://github.com/Hansoncoder/Clock/blob/master/demo.gif)
 
